@@ -13,12 +13,14 @@ Taak verdeling:
 - SketchUp: Hidde
 - Design: Noah
 - Keynote: Jonas
-- Spotlijst: 
+- Spotlijst: Noah
 - BrainStorm: Iedereen
 - Week-Verslag: Hidde
 - Moodboard: Dean
 - Story-Board: Jonas
-- Locatie-onderzoek: Iedereen
+- Locatie-onderzoek: Dean - Noah
 - Voorbereiding: Dean
-- Draaiboek: 
+- Draaiboek: Dean
 - CallSheets: Hidde
+- Shotlist: Dean
+- Muziek: Dean
