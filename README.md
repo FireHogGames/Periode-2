@@ -26,6 +26,11 @@ Taak verdeling:
 Discipline:
 - 
 
+Maandag af:
+- Discipline
+- Naam
+- Rolverdeling
+
 Planning Maandag:
 - 9:15 - 11:30: Ideeën bedenken
 - 11:45 - 12:30: pauze
@@ -33,6 +38,12 @@ Planning Maandag:
 - 13:30 - 14:15: Begin met design
 - 14:15 - 14:45: Workshop vergaderen notuleren
 - 14:45 - 16:30: verder met design
+
+Dinsdag af:
+- Bedrijfsplan
+- Investerings begroting
+- Voorbeeld offerte
+- Voorbereiding film
 
 Planning Dinsdag:
 - 08:30 - 9:00: Hidde, workshop sketchup
