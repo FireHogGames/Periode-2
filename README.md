@@ -28,8 +28,8 @@ Discipline:
 
 Maandag af:
 - Discipline
-- Naam
-- Rolverdeling
+- Naam - klaar
+- Rolverdeling - klaar
 
 Planning Maandag:
 - 9:15 - 11:30: Ideeën bedenken
@@ -41,9 +41,9 @@ Planning Maandag:
 
 Dinsdag af:
 - Bedrijfsplan
-- Investerings begroting
+- Investerings begroting - klaar
 - Voorbeeld offerte
-- Voorbereiding film
+- Voorbereiding film - klaar
 
 Planning Dinsdag:
 - 08:30 - 9:00: Hidde, workshop sketchup
