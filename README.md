@@ -41,6 +41,7 @@ Planning Maandag:
 
 Dinsdag af:
 - Bedrijfsplan
+- Investerings begroting
 - Voorbeeld offerte
 - Voorbereiding film
 
