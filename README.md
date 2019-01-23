@@ -10,26 +10,26 @@ Taak verdeling:
 - Visual Effects: Hidde
 - Notuleur: Jonas
 - SketchUp: Hidde
-- Design: Noah
-- Keynote: Jonas
+- Design: Noah - logo: af
+- Keynote: Jonas - 
 - Spotlijst: Noah
-- BrainStorm: Iedereen
-- Week-Verslag: Hidde
-- Moodboard: Dean
-- Locatie-onderzoek: Dean - Noah
-- Voorbereiding: Dean
-- Draaiboek, script, story-board: Jonas
+- BrainStorm: Iedereen - af
+- Week-Verslag: Hidde- niet af
+- Moodboard: Dean - niet af
+- Locatie-onderzoek: Dean & Noah - af
+- Voorbereiding: Dean - af
+- story-board: Jonas
 - CallSheets: Hidde
-- Shotlist: Dean
-- Muziek: Dean
+- Shotlist: Dean - af
+- Muziek: Dean - af
 
 Discipline:
 - 
 
 Maandag af:
 - Discipline
-- Naam
-- Rolverdeling
+- Naam - klaar
+- Rolverdeling - klaar
 
 Planning Maandag:
 - 9:15 - 11:30: Ideeën bedenken
@@ -41,11 +41,22 @@ Planning Maandag:
 
 Dinsdag af:
 - Bedrijfsplan
-- Investerings begroting
+- Investerings begroting - klaar
 - Voorbeeld offerte
-- Voorbereiding film
+- Voorbereiding film - klaar
 
 Planning Dinsdag:
 - 08:30 - 9:00: Hidde, workshop sketchup
 - 10:30 - 11:00: Dean en Noah, naar pathe
 - 9:00 - 16:30: Jonas en Hidde, Script, Draaiboek, Story-Board, ShotLijst, Materialen lijst, CallSheet.
+
+Woensdag af:
+Filmen
+Visitekaartje maken -Jonas
+website - Hidde
+sketchup - Hidde
+moodboard - Jonas
+storyboard - af
+notuleren
+
+Wie gaan filmen: Noah & Dean
