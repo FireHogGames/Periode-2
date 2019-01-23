@@ -51,12 +51,13 @@ Planning Dinsdag:
 - 9:00 - 16:30: Jonas en Hidde, Script, Draaiboek, Story-Board, ShotLijst, Materialen lijst, CallSheet.
 
 Woensdag af:
-Filmen
-Visitekaartje maken -Jonas af
+Filmen voor showreel - af
+Visitekaartje maken - af
 website - Hidde
 sketchup - Hidde
-moodboard - Jonas af
+moodboard - af
 storyboard - af
 notuleren
+Ondernemer plan: 
 
 Wie gaan filmen: Noah & Dean
