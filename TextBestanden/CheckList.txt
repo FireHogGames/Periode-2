@@ -1,9 +1,3 @@
-BrainStormen - Klaar
-Kernwaarden - Klaar
-Bedrijfsplan - Klaar
-Investeringsbegroting - Klaar
-Voorbeeld offerte - Klaar
-Logo visitekaartje - Klaar
 Keynote - Niet klaar
 Gevel in photoshop - Niet klaar
 Interieur in sketchup - Niet klaar
@@ -12,14 +6,7 @@ Voorstel film - Niet klaar
 Showreel - Niet klaar
 Geanimeerd logo - Niet klaar
 Spotlijst - Niet klaar
-Brain storm - Klaar
-Moodboard - klaar
-Storyboard - Klaar
-Locatie onderzoek - Klaar
-Voorbereiding - Klaar
-Materialenoverzicht - Klaar
 Draaiboek - Niet klaar
-Callsheets - Klaar
 
 Nog te doen:
 - Keynote
@@ -29,5 +16,4 @@ Nog te doen:
 - Showreel editen
 - Geanimeerd logo
 - Spotlijst
-- Materialen overzicht
 - Draaiboek
