@@ -18,7 +18,7 @@ Taak verdeling:
 - Moodboard: Dean - niet af
 - Locatie-onderzoek: Dean & Noah - af
 - Voorbereiding: Dean - af
-- story-board: Jonas
+- story-board: Jonas - af
 - CallSheets: Hidde
 - Shotlist: Dean - af
 - Muziek: Dean - af
@@ -51,12 +51,13 @@ Planning Dinsdag:
 - 9:00 - 16:30: Jonas en Hidde, Script, Draaiboek, Story-Board, ShotLijst, Materialen lijst, CallSheet.
 
 Woensdag af:
-Filmen
-Visitekaartje maken -Jonas
+Filmen voor showreel - af
+Visitekaartje maken - af
 website - Hidde
 sketchup - Hidde
-moodboard - Jonas
+moodboard - af
 storyboard - af
 notuleren
+Ondernemer plan: 
 
 Wie gaan filmen: Noah & Dean
